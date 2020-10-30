@@ -1,7 +1,7 @@
 # webpack5-vue
 
 > Basic assembly on webpack 5 with easy development.
-> Include vue, vue-router, vuex, vuetify.
+> Includes vue, vue-router, vuex, vuetify.
 
 ## Build Setup
 
